@@ -1,12 +1,12 @@
 Summary:	Translation of Unicode East Asian ideographs definitions
 Summary(pl):	T³umaczenia definicji unikodowych ideogramów wschodnioazjatyckich
 Name:		unicode-han-translation
-Version:	0.0.1
+Version:	0.0.2
 Release:	1
 License:	LGPL
 Group:		Libraries
 Source0:	http://freedesktop.org/Software/unicode-translation/releases/%{name}-%{version}.tar.gz
-# Source0-md5:	b991e8d361f31a4abdfdeb55051584b3
+# Source0-md5:	7f51d96137af6f01adc118d26834b5e6
 # it's not directory, don't add /
 URL:		http://freedesktop.org/Software/unicode-translation
 BuildRequires:	intltool >= 0.22
