@@ -1,5 +1,5 @@
 Summary:	Translation of Unicode East Asian ideographs definitions
-Summary(pl.UTF-8):   Tłumaczenia definicji unikodowych ideogramów wschodnioazjatyckich
+Summary(pl.UTF-8):	Tłumaczenia definicji unikodowych ideogramów wschodnioazjatyckich
 Name:		unicode-han-translation
 Version:	0.0.2
 Release:	1
