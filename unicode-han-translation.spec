@@ -1,5 +1,5 @@
 Summary:	Translation of Unicode East Asian ideographs definitions
-Summary(pl):	T≥umaczenia definicji unikodowych ideogramÛw wschodnioazjatyckich
+Summary(pl.UTF-8):   T≈Çumaczenia definicji unikodowych ideogram√≥w wschodnioazjatyckich
 Name:		unicode-han-translation
 Version:	0.0.2
 Release:	1
@@ -16,9 +16,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The unicode-han-translation project aims to translate Unicode
 definitions of East Asian ideographs.
 
-%description -l pl
-Celem projektu unicode-han-translation jest przet≥umaczenie definicji
-unikodowych ideogramÛw wschodnioazjatyckich.
+%description -l pl.UTF-8
+Celem projektu unicode-han-translation jest przet≈Çumaczenie definicji
+unikodowych ideogram√≥w wschodnioazjatyckich.
 
 %prep
 %setup -q
